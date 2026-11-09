@@ -1,0 +1,9 @@
+{
+  "name": "powerbi-report-testing",
+  "version": "0.1.0",
+  "description": "Write evidence-backed Power BI report regression tests for formatting, value changes, business logic, and optional permissions.",
+  "author": { "name": "AI Lah" },
+  "homepage": "https://github.com/leowjs/powerbi-report-testing",
+  "repository": "https://github.com/leowjs/powerbi-report-testing",
+  "license": "MIT"
+}
